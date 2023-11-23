@@ -59,9 +59,11 @@
 
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=cppenloglou&show_icons=true&locale=en&layout=compact" alt="cppenloglou" /></p>
+<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=cppenloglou&theme=aura&show_icons=true" alt="cppenloglou" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=cppenloglou&theme=aura&show_icons=true&repo=TurboTypeRacer" alt="cppenloglou" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cppenloglou&theme=aura&show_icons=true" alt="cppenloglou" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=cppenloglou&show=reviews&theme=aura&show_icons=true" alt="cppenloglou" />
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cppenloglou&" alt="cppenloglou" /></p>
 <!---
 cppenloglou/cppenloglou is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
