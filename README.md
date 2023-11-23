@@ -59,9 +59,9 @@
 
 </p>
 
-<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=cppenloglou&theme=aura&show_icons=true" alt="cppenloglou" />
-<img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=cppenloglou&theme=aura&show_icons=true&repo=TurboTypeRacer" alt="cppenloglou" />
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cppenloglou&theme=aura&show_icons=true" alt="cppenloglou" />
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cppenloglou&theme=aura&show_icons=true" alt="cppenloglou" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=cppenloglou&theme=aura&show_icons=true&repo=TurboTypeRacer" alt="cppenloglou" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cppenloglou&theme=aura&show_icons=true" alt="cppenloglou" />
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=cppenloglou&show=reviews&theme=aura&show_icons=true" alt="cppenloglou" />
 
 <!---
