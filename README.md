@@ -73,6 +73,8 @@ But wait, there's more! 🌌 As an aerospace and robotics aficionado, I'm on a m
 
 ![Chrysostomos's GitHub stats](https://github-readme-stats.vercel.app/api?username=cppenloglou&show_icons=true&theme=radical)
 
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cppenloglou&theme=aura&show_icons=true" alt="cppenloglou" />
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cppenloglou&layout=compact&theme=radical)](https://github.com/cppenloglou/github-readme-stats)
 
 ### Connect and Conquer:
