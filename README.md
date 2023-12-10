@@ -22,7 +22,13 @@
 ▀▀▀▀▀▀▀▀▀▀▀▀▀-     ▀▀▀▀▀▀▀▀▀▀       '╧╧╧╧╧╧╧╧╧`     ╚ ╧╧╧- ▀  ╚═╝     ╚═╝╚══════╝╚══════╝   ╚═╝        ╚═╝    ╚═════╝  ╚═════╝
 ```
 
-Welcome to the tech carnival of curiosity, where bits and bytes come to life! I'm Chrysostomos, a spirited explorer in the realm of Applied Informatics and Computer Science.
+<h2 align="center">
+  <img align="left" height=70px width=70px src="https://www.picgifs.com/sport-graphics/sport-graphics/fencing/sport-graphics-fencing-754426.gif">
+   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Consolas&duration=4500&pause=1000&color=25F5DA&center=true&vCenter=true&width=535&lines=Welcome+to+the+tech+carnival+of+curiosity;Where+bits+and+bytes+come+to+life!;Student+at+University+of+Macedonia" alt="Typing SVG" /></a> 
+  <img align="right" height=70px width=70px src="https://www.picgifs.com/sport-graphics/sport-graphics/fencing/sport-graphics-fencing-754426.gif">
+</h2>
+
+I'm Chrysostomos, a spirited explorer in the realm of Applied Informatics and Computer Science.
 
 - 📚 Currently flipping through the pages of Applied Informatics and Computer Science at the University of Macedonia (3rd-year bachelor).
 - 💼 Juggling code and finances as the Economical Manager at our family restaurant.
@@ -30,12 +36,17 @@ Welcome to the tech carnival of curiosity, where bits and bytes come to life! I'
 
 But wait, there's more! 🌌 As an aerospace and robotics aficionado, I'm on a mission to conquer the coding cosmos, especially with my trusty sidekick, Arduino. The trading bot I'm co-piloting in the AWS galaxy and Interactive Brokers universe is just the beginning!
 
-### What I'm Up To:
+---------
+## What I'm Up To:
+<img align="right" width="200" height="150" src="https://www.protocol.com/media-library/stock-market-up-arrow.jpg?id=24808026&width=1245&height=700&quality=85&coordinates=28%2C0%2C29%2C0"/>
+
 
 - 🌱 Planting the seeds of knowledge in AI, algorithms, and game development with JavaFX.
 - 📈 Navigating the stock market's rollercoaster and finding hidden treasures.
 
-### Awards 🏆:
+---------
+
+## 🤺 Personal Development and Achievements
 
 - 🥇 First Place in a LEGO EV3 Robotics Exhibition Competition at Anatolia College Thessaloniki (High School):
   - **Project:** Remote, Auto-Sustainable Vehicle and Communication System for Fire Detection in Forests
@@ -57,9 +68,9 @@ But wait, there's more! 🌌 As an aerospace and robotics aficionado, I'm on a m
   - **Role:** Presented the article and created the PowerPoint presentation
   - **Award:** First place
 
+---------
 
-
-### Tech Symphony:
+## Tech Symphony:
 
 - 👨‍💻 Proficient in ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white), ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black), and orchestrating in ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) ![JavaFX](https://img.shields.io/badge/JavaFX-007396?style=for-the-badge&logo=javafx&logoColor=white).
 - 🚀 Navigating through the clouds with ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white) and ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white).
@@ -69,7 +80,7 @@ But wait, there's more! 🌌 As an aerospace and robotics aficionado, I'm on a m
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d48893bd-0757-481c-8d7e-ba3e163feae7" />
 
 
-### GitHub Stats:
+## GitHub Stats:
 
 ![Chrysostomos's GitHub stats](https://github-readme-stats.vercel.app/api?username=cppenloglou&show_icons=true&theme=radical)
 
@@ -77,7 +88,7 @@ But wait, there's more! 🌌 As an aerospace and robotics aficionado, I'm on a m
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cppenloglou&layout=compact&theme=radical)](https://github.com/cppenloglou/github-readme-stats)
 
-### Connect and Conquer:
+## Connect and Conquer:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chrysostomos-penloglou-775091194/) [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100009053420541) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/chrysostomospenloglou/) [![Fiverr](https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white)](https://www.fiverr.com/chrysostomos_pe?up_rollout=true) [![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/22770753/cppenloglou)
 
@@ -87,6 +98,6 @@ But wait, there's more! 🌌 As an aerospace and robotics aficionado, I'm on a m
 
 Explore my repositories, connect, and let's code up some magic together! ✨😊
 
-### 📝 Medium Articles (Under Construction):
+## 📝 Medium Articles (Under Construction):
 
 Stay tuned for insightful articles on Medium! 🚧✨
