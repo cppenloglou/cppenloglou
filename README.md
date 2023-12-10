@@ -54,10 +54,12 @@ But wait, there's more! 🌌 As an aerospace and robotics aficionado, I'm on a m
   - **Details:** Our project consisted of two LEGO EV3 robots, one acting as a remote, auto-sustainable vehicle equipped with sensors to detect fire zones and an increase in temperature. The other robot, positioned farther away, received messages from the first when a fire was detected inside the forest.
 
 - 🥇 Best Project Idea and Implementation in Software Engineering (Class Course - 2023):
-  - **Project:** ![Settlers of Catan](https://github.com/Lovelaced-Team/Settlers-of-catan)
+
+
+
+  <img src="https://github.com/Lovelaced-Team/Settlers-of-catan/blob/main/src/main/resources/assets/startScreen/Settlers_Of_Catan_Logo.png" width="20%" height="20%" style="margin-left:40%"/> <img height= "80" width="240" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Lovelaced-Team&repo=Settlers-of-catan&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="flask">
   - **Award:** First place
   - **Role:** Programmer (Source Code Developer)
-  - <img src="https://github.com/Lovelaced-Team/Settlers-of-catan/blob/main/src/main/resources/assets/startScreen/Settlers_Of_Catan_Logo.png" width="20%" height="20%" style="margin-left:40%"/>
   - Settlers of Catan Project Tools:
   - - 🎮 **Discord** for meetings [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/)
   - - 📊 **Jira and Confluence** for managing issues and epics [![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)](https://www.atlassian.com/software/jira) [![Confluence](https://img.shields.io/badge/Confluence-172B4D?style=for-the-badge&logo=confluence&logoColor=white)](https://www.atlassian.com/software/confluence)
