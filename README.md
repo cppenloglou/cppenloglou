@@ -96,8 +96,4 @@ But wait, there's more! 🌌 As an aerospace and robotics aficionado, I'm on a m
 
 📧 Dive into my coding universe at xrisostomospenloglou13@gmail.com
 
-Explore my repositories, connect, and let's code up some magic together! ✨😊
-
-## 📝 Medium Articles (Under Construction):
-
-Stay tuned for insightful articles on Medium! 🚧✨
+## 📝 Medium Articles (Under Construction): ....
