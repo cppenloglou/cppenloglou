@@ -38,7 +38,7 @@ But wait, there's more! 🌌 As an aerospace and robotics aficionado, I'm on a m
 
 ---------
 ## What I'm Up To:
-<img align="right" width="200" height="150" src="https://www.protocol.com/media-library/stock-market-up-arrow.jpg?id=24808026&width=1245&height=700&quality=85&coordinates=28%2C0%2C29%2C0"/>
+<img align="right" width="200" height="150" src="https://images.unsplash.com/photo-1535320903710-d993d3d77d29?q=80&w=2670&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D?id=24808026&width=1245&height=700&quality=85&coordinates=28%2C0%2C29%2C0"/>
 
 
 - 🌱 Planting the seeds of knowledge in AI, algorithms, and game development with JavaFX.
