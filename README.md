@@ -74,7 +74,7 @@ But wait, there's more! 🌌 As an aerospace and robotics aficionado, I'm on a m
 
 ## Tech Symphony:
 
-- 👨‍💻 Proficient in ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white), ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black), and orchestrating in ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) ![JavaFX](https://img.shields.io/badge/JavaFX-007396?style=for-the-badge&logo=javafx&logoColor=white).
+- 👨‍💻 Proficient in ![Python](https://img.shields.io/badge/Python-00599Python?style=for-the-badge&logo=Python&logoColor=white) and orchestrating in ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) ![JavaFX](https://img.shields.io/badge/JavaFX-007396?style=for-the-badge&logo=javafx&logoColor=white).
 - 🚀 Navigating through the clouds with ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white) and ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white).
 - 🏰 Defending kingdoms with ![GitLab CI/CD](https://img.shields.io/badge/GitLab_CI%2FCD-222222?style=for-the-badge&logo=gitlab&logoColor=white) and ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white).
 - 🎶 Conducting code symphonies and orchestrating ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white) pipelines.
